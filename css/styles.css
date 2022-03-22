@@ -1,0 +1,14 @@
+.sidebar{
+    width: 30%;
+    float:right;
+    background-color: bisque;
+}
+
+img{
+    float:left;
+    border: 15px solid gainsboro;
+}
+
+h1{
+    text-align: center;
+}
