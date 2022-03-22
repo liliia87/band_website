@@ -1,14 +1,29 @@
 .sidebar{
-    width: 30%;
-    float:right;
+    border: 15px;
+    width: 850px;
+    height: 30%;
+    float:left;
     background-color: bisque;
+}
+u{
+    color:blueviolet;
 }
 
 img{
     float:left;
     border: 15px solid gainsboro;
 }
+p{
+    line-height: 1.6;
+    width: 850px;
+    float: right;
+    border: 15px;
+}
+html{
+    font-size: 1.5rem;
+}
 
 h1{
+    color:brown;
     text-align: center;
 }
